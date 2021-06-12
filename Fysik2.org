@@ -1,0 +1,90 @@
+* Mekaniska vågor
+
+** Mekaniska vågor
+- Vågrörelse som transporterar energi genom ett medium som sätts i svängning.
+- Alla mekaniska vågor har ett medium och en källa.
+- Vattenvågor, ljudvågor, seismiska vågor, och en pendel är alla exempel på mekaniska vågor.
+
+*** Egenskaper för en våglängd
+- Våglängd (λ) - Längden mellan två punkter som berfinner sig i samma läge på en våg (till exempel längst till "vänster" på en våglängd). Enhet: meter (m).
+
+- Amplitud - Är ett mått från svängningens jämviktsläge till dess maxläge. Amplituden är ett absolutvärde, allstå är det samma amplitud i en topp som i en dal.
+  Enhet: Enhet (och storhet) beror på vilken typ av våg det är. Om man mäter en vattenvåg är det lämpligt att mäta amplitud i sträcka (meter). Om man instället mäter en ljudvåg mäter man istället tryck (Pa).
+
+- Utbredningshastighet (v) - Hastigheten som vågen färdas med.
+  Enhet: meter/sekund (m/s)
+
+- Period (T) - Tiden det tar för vågen att färdas en våglängd.
+  Enhet sekund (s)
+
+- Frekvens (f) - Hur många gånger vågen svänger varje sekund.
+  f = 1/T.
+  Enhet: Svängningar/sekund d.v.s Hertz (Hz).
+
+*** Samband
+- v = λ/T
+  \begin{equation}
+v = \frac{\lambda}{T}
+\end{equation}
+- f = 1/T
+- Dessa två innebär att v = fλ.
+ 
+
+[[file:fysik2/våg.gif]] 
+ 
+*** Svängning och utbredning
+Mekaniska vågor kan svänga på två sätt relativt utbredningsriktningen, det vill säga den riktning som vågen färdas.
+Om en
+**** Transversella vågor
+Transversella vågor är vågor där mediet svänger vinkelrätt mot utbredningsriktningen. Ett exempel på detta vattenvågor.
+[[file:fysik2/transversellvåg.jpg]] 
+
+**** Longitudinella vågor
+Longitudinella vågor är vågor där mediet svänger parallellt med utbredningsriktningen. Ett exempel på det är ljudvågor (i ljudvågor är svängningarna inte svängningar av luftmolekylerna, utan snarare svängningar i lufttrycket).
+[[file:fysik2/longitudinellvåg.jpg]]
+
+*** Harmonisk och dämpad svängning
+Varje punkt på en våg har en kraft som verkar mot jämviktsläget. Kraften är som störst i ytterpositionerna (d.v.s topparna och dalarna). Det är dessa krafter som driver en vågrörelse. Om en våg hela tiden tillförs energi och på så sätt behåller sitt utseende kallas det för en harmonisk svängning. En våg som inte tillförs någon energi kommer att dämpas med tiden och kallas för en dämpad svängning.  
+
+*** Reflektion
+När en våg stöter på en fast yta kommer den att reflekteras. Infallsvinkeln θi är alltid lika stor som reflektionsvinkeln θr. Dess vinklar mäts mot normalen som är en linje som är vinkelrät mot ytan som vågen reflekteras mot. 
+*** Interferens
+Vågor påverkar varandra när de stöter på varandra på ett sådant sätt att man adderar amplituden för de två vågorna för att få den resulterande amplituden.
+
+- Konstruktiv interferens - amplituden blir större.
+- Destruktiv interferens - amplituden blir mindre.  
+*** Brytning
+Om mediet som en mekanisk våg färdas genom ändrar egenskaper (t.ex temperatur, tryck, eller att det är ett helt nytt ämne), kommer vågen att få en ny hastighet vilket innebär att vågen kommer att ändra riktning.
+
+Viktigt att komma ihåg är att frekvensen inte ändras. Sambandet f = v/λ innebär att om frekvensen är densamma och hastigheten ändras, måste vågländen också ändras lika mycket. Om hastiheten exempelvis fördubblas måste också våglängden göra det för att det ska förbli samma frekvens.
+
+*** Resonans
+Om ett objekt svänger med en viss frekvens och blir påverkad av en kraft med samma frekvens som är synkroniserad kommer objektets amplitud att öka. 
+
+*** Böjning
+Om en vågrörelse stötet på ett hinder böjs bågorna radiellt (i en cirkel). Ju mindre öppningen i hindret, desto större effekt.
+**** Huygens princip
+Huygens princip säger att varje punkt på en vågfront är en källa till en ny våg som sprider sig sfäriskt.
+*** Stående vågor
+Om man spänner fast ett repi en vägg kommer vågorna att reflekteras då de träffar väggen. Om de reflekterade vågorna sammanfaller med de skapade vågorna via konstruktiv interferens uppstår stående vågor. Då ser det ut som att vågen "står still" och inte propagerar framåt. De punkter som inte rör sig kallas för noder, och de punkter där vågen rör sig mest kallas för bukar. 
+
+*** Egenskaper för stående vågor
+- Mellen två närliggande bukar/noder är det alltid en halv våglängd.
+- En mekanisk våg med en öppen ände - t.ex en pipa - bildas det en buk i den änden.
+- En mekanisk våg med en fäst ände - t.ex en gitarrsträng - är det en nod i en änden. Detta eftersom vågen måste reflekteras där.
+*** Tillämpningar för stående vågor
+Stående vågor används mycket när man pratar om ljud och musikinstrument. 
+- Den enklaste stående våg som bildas i ett rör eller i en sträng kallas för grundton.
+- Den näst enklaste stående våg kallas för första övertonen. Den tredje enklast för andra övertonen o.s.v. 
+
+*** Mer om ljud
+Männskor kan höra frekvenser mellan 20 Hz - 20 kHz. Vid högre ålder avtar känsligheten för högre frekvenser (s.k ultraljud). Olika djur har olika frekvensomfång som de kan höra.
+
+**** Tillämpningar
+Ultraljud har många tillämpningar inom olika områden t.ex tillverkning och sjukvård. Ultraljud gör så att man kan "se igenom" saker med hjälp av de frekvenser som absorberas, t.ex vid en fosterundersökning.
+**** Ljudintesitet
+Ljud sprids sfäriskt. Ljudintensitet är den effekt som avges eller upptas per areaenhet och enheten är W/m². Ljudintensiteten avtar med avståndet i kvadrat, d.v.s den s.k inversa kvadratlagen (som exempelvis finns med i Newtons gravitationslag och Coulombs lag). Ljudintensiten I = P/(4πr²). P är uppmätt effekt vid ljudkällan och nämnaren är arean för sfären med radien r där r är avståndet som ljudet färdas. 
+* Viktiga formler och enheter.
+| Storhet | Enhet | Förkortning |
+|---------+-------+-------------|
+|         |       |             |

@@ -23,9 +23,6 @@
 
 *** Samband
 - v = λ/T
-  \begin{equation}
-v = \frac{\lambda}{T}
-\end{equation}
 - f = 1/T
 - Dessa två innebär att v = fλ.
  
@@ -85,6 +82,11 @@ Ultraljud har många tillämpningar inom olika områden t.ex tillverkning och sj
 **** Ljudintesitet
 Ljud sprids sfäriskt. Ljudintensitet är den effekt som avges eller upptas per areaenhet och enheten är W/m². Ljudintensiteten avtar med avståndet i kvadrat, d.v.s den s.k inversa kvadratlagen (som exempelvis finns med i Newtons gravitationslag och Coulombs lag). Ljudintensiten I = P/(4πr²). P är uppmätt effekt vid ljudkällan och nämnaren är arean för sfären med radien r där r är avståndet som ljudet färdas. 
 * Viktiga formler och enheter.
-| Storhet | Enhet | Förkortning |
-|---------+-------+-------------|
-|         |       |             |
+| Storhet              | Enhet                     | Förkortning |
+|----------------------+---------------------------+-------------|
+| Utbredningshastighet | meter/sekund              | m/s         |
+| Utbredningshastighet | våglängd(m)*frekvens(1/s) | m/s         |
+| Period               | sekund                    | s           |
+| Frekvens             | svängningar/sekund        | Hz          |
+| Våglängd             | meter                     | m           |
+| Ljudintensitet       | effekt/area               | W/m²        |
